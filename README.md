@@ -9,6 +9,8 @@ Uma plataforma web para facilitar a procura por bolsas de estudo e visa a resolv
 - [x] Cadastro e login de usuário simples
 - [x] Cadastrar bolsas de estudo
 - [x] Permitir os usuário observarem as bolsas cadastradas
+- [x] Editar e apagar bolsa cadastrada
+- [x] Controle de acesso por usuário cadastrados
 
  🛠️ Tecnologias utilizadas
 - HTML, CSS, JavaScript
